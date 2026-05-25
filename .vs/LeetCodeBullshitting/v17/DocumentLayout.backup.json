@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|c:\\users\\spiriuml\\desktop\\leetcodebullshitting\\leetcodebullshitting\\linkedlist\\deletethemiddlenodeofalinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|solutionrelative:leetcodebullshitting\\linkedlist\\deletethemiddlenodeofalinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|c:\\users\\spiriuml\\desktop\\leetcodebullshitting\\leetcodebullshitting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|solutionrelative:leetcodebullshitting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|c:\\users\\spiriuml\\desktop\\leetcodebullshitting\\leetcodebullshitting\\stack\\decodestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|solutionrelative:leetcodebullshitting\\stack\\decodestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|c:\\users\\spiriuml\\desktop\\leetcodebullshitting\\leetcodebullshitting\\queue\\numberofrecentcalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B906EC-9573-4066-85FD-8E2A08C8F689}|LeetCodeBullshitting\\LeetCodeBullshitting.csproj|solutionrelative:leetcodebullshitting\\queue\\numberofrecentcalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeletetheMiddleNodeofaLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\LinkedList\\DeletetheMiddleNodeofaLinkedList.cs",
+              "RelativeDocumentMoniker": "LeetCodeBullshitting\\LinkedList\\DeletetheMiddleNodeofaLinkedList.cs",
+              "ToolTip": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\LinkedList\\DeletetheMiddleNodeofaLinkedList.cs",
+              "RelativeToolTip": "LeetCodeBullshitting\\LinkedList\\DeletetheMiddleNodeofaLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T10:34:45.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberOfRecentCalls.cs",
+              "DocumentMoniker": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\Queue\\NumberOfRecentCalls.cs",
+              "RelativeDocumentMoniker": "LeetCodeBullshitting\\Queue\\NumberOfRecentCalls.cs",
+              "ToolTip": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\Queue\\NumberOfRecentCalls.cs",
+              "RelativeToolTip": "LeetCodeBullshitting\\Queue\\NumberOfRecentCalls.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T09:46:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecodeString.cs",
+              "DocumentMoniker": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\Stack\\DecodeString.cs",
+              "RelativeDocumentMoniker": "LeetCodeBullshitting\\Stack\\DecodeString.cs",
+              "ToolTip": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\Stack\\DecodeString.cs",
+              "RelativeToolTip": "LeetCodeBullshitting\\Stack\\DecodeString.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:08:35.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeBullshitting\\Program.cs",
+              "ToolTip": "C:\\Users\\SpiriumL\\Desktop\\LeetCodeBullshitting\\LeetCodeBullshitting\\Program.cs",
+              "RelativeToolTip": "LeetCodeBullshitting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:17:17.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
